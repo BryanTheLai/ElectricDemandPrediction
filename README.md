@@ -1,5 +1,5 @@
 ## Project Summary
-
+https://docs.google.com/document/d/1Z8qZaa2Mf5WbpNSnLsRMZIhjyCcLEjdxJcbNuTcCA1I/edit?tab=t.0
 ### Overview
 This project involves forecasting energy demand in Australia using monthly data. It covers data preparation, time series analysis, model fitting, and evaluation.
 
